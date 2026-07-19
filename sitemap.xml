@@ -9,6 +9,10 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://une-digitale.vercel.app/portfolio.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://une-digitale.vercel.app/heartketing.html</loc>
     <priority>0.8</priority>
   </url>
