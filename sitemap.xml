@@ -17,10 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://une-digitale.vercel.app/contact.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://une-digitale.vercel.app/cgv.html</loc>
     <priority>0.3</priority>
   </url>
